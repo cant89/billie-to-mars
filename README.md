@@ -1,6 +1,16 @@
 # Getting Started
 
-Stupid useless web app made in DDD (frontend) and a very simple backend for mocking api.
+Example Web app made in DDD (frontend) and a very simple backend, with an hardcoded DB, for mocking API.
+It shows a list of customers from where you can update some of their informations.
+
+## Front Technologies
+- React
+- Redux
+- Redux Saga
+- Typescript
+- Material UI (styling)
+- Jest (unit tests)
+- Express JS (backend)
 
 ## Environment
 
